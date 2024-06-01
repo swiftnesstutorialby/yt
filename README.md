@@ -1,2 +1,2 @@
-# youtube clone
-you can create a yt clone using these files
+# whatsapp clone
+you can create a chat app clone using these files
